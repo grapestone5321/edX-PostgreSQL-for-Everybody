@@ -10,24 +10,24 @@ edx-PostgreSQL-for-Everybody
 ## Database Design and Basic SQL in PostgreSQL
 
 
-- Week 1 - Introduction to SQL, Incomplete section
+- Week 1 - Introduction to SQL
 
-- Week 2 - Single Table SQL, Incomplete section
+- Week 2 - Single Table SQL
 
-- Week 3 - One-to-Many Data Models, Incomplete section
+- Week 3 - One-to-Many Data Models
 
-- Week 4 - Many-to-Many Data Models, Incomplete section
+- Week 4 - Many-to-Many Data Models
 
 
 -------
 
 ## Intermediate PostgreSQL
 
-- Week 1 SQL Techniques, Incomplete section
+- Week 1 SQL Techniques
 
-- Week 2 - Using SQL Techniques, Incomplete section
+- Week 2 - Using SQL Techniques
 
-- Week 3 - Text in PostgreSQL, Incomplete section
+- Week 3 - Text in PostgreSQL
 
 - Week 4 - Regular Expressions
 
@@ -35,11 +35,11 @@ edx-PostgreSQL-for-Everybody
 
 ## Database Architecture, Scale, and NoSQL with Elasticsearch
 
-- Week 1 - Scaling Databases, Incomplete section
+- Week 1 - Scaling Databases
 
-- Week 2 - Cloud Scale Applications, Incomplete section
+- Week 2 - Cloud Scale Applications
 
-- Week 3 - Elasticsearch, Incomplete section
+- Week 3 - Elasticsearch
 
 
 -------
@@ -49,13 +49,13 @@ edx-PostgreSQL-for-Everybody
 
 
 
-- Week 1 - Natural Language, Incomplete section
+- Week 1 - Natural Language
 
-- Week 2 - Inverted Indexes with PostgreSQL, Incomplete section
+- Week 2 - Inverted Indexes with PostgreSQL
 
-- Week 3 - Python and PostgreSQL, Incomplete section
+- Week 3 - Python and PostgreSQL
 
-- Week 4 - JSON and PostgreSQL, Incomplete section
+- Week 4 - JSON and PostgreSQL
 
 
 
@@ -65,10 +65,11 @@ edx-PostgreSQL-for-Everybody
 -------
 
 # PostgreSQL for Everybody (PG4E)
+https://www.pg4e.com
 
 Hello and welcome to my site where you can work through these modules and learn develop to use the PostgreSQL database.
 
-https://www.pg4e.com
+
 
 1: Single Table SQL
 
