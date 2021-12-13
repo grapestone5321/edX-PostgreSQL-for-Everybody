@@ -126,54 +126,32 @@ Chuck Severance
 
 
 
-1
+- 1 7:33 Welcome to PostgreSQL for Everybody - Why PostgreSQL?
 
-7:33
-
-Welcome to PostgreSQL for Everybody - Why PostgreSQL?
 Chuck Severance
 
-2
+- 2 9:38 Using PythonAnywhere to run SQL
 
-9:38
-
-Using PythonAnywhere to run SQL
 Chuck Severance
 
-3
+- 3 6:53 Using the DBeaver Client to Run SQL Commands
 
-6:53
-
-Using the DBeaver Client to Run SQL Commands
 Chuck Severance
 
-4
+- 4 6:48 PostgreSQL Musical Track Database (CSV)
 
-6:48
-
-PostgreSQL Musical Track Database (CSV)
 Chuck Severance
 
-5
+- 5 15:05 PostgreSQL Demonstration: Database Design and Many to Many
 
-15:05
-
-PostgreSQL Demonstration: Database Design and Many to Many
 Chuck Severance
 
-6
+- 6 6:24 PostgreSQL Demonstration: Creating and Loading a Database
 
-6:24
-
-PostgreSQL Demonstration: Creating and Loading a Database
 Chuck Severance
 
-7
-
-8:04
-
-PostgreSQL Demonstration: SELECT DISTINCT
-Chuck Severance
+-7 8:04 PostgreSQL Demonstration: SELECT DISTINCT
+ Chuck Severance
 
 8
 
