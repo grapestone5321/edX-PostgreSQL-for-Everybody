@@ -97,8 +97,7 @@ Handling Natural Language fields and indexes in PostgreSQL.
 
 6: Python and PostgreSQL
 
-Using PostgreSQL with Python. Using PostgreSQL to retrieve and store API
-
+Using PostgreSQL with Python. Using PostgreSQL to retrieve and store API data.
 
 7: JSON and PostgreSQL
 
